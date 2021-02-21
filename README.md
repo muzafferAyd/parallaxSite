@@ -1,4 +1,6 @@
-# parallaxSite
+# Demo Parallax Site => https://muzafferayd.github.io/parallaxSite/
+
+
 
 #used sass 
 - npm install -g sass
